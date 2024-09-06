@@ -4,7 +4,24 @@ title: About
 permalink: /about/
 ---
 
-placeholder
+### Hi, I'm shay
+
+I'm a CSSE student in Mr. Mortensen's class. 
+
+Some of the courses of study I have taken are digital media production, intro enginering course, and now CSSE.
+
+My hobbies include
+* model trains
+* remote control cars, boats, planes
+* 3d printing 
+* making things in many different ways
+* video games
+
+
+I also have a small railroad historical artifact collection currently consisting of a spike from the SD&AE engine shed. i'm working to get blueprints and plans from old San Diego railroading things.
+
+
+Some of the video games i play
 
 <style>
     /* Style looks pretty compact, trace grid-container and grid-item in the code */
@@ -31,6 +48,7 @@ placeholder
     <!-- content will be added here by JavaScript -->
 </div>
 
+
 <script>
     // 1. Make a connection to the HTML container defined in the HTML div
     var container = document.getElementById("grid_container"); // This container connects to the HTML div
@@ -39,7 +57,7 @@ placeholder
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
         {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - forever"},
-        {"flag": "put_flag_wa_later", "greeting": "Hi", "description": "California - month or so every summer"},
+        {"flag": "/thumb/5/54/Flag_of_Washington.svg/640px-Flag_of_Washington.svg.png", "greeting": "Hi", "description": "Washington state - every summer"},
     ]; 
     
     // 3a. Consider how to update style count for size of container

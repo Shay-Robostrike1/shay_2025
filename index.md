@@ -222,6 +222,11 @@ this is a heading inside of code scaffolding
 - Focus on tehnical communications through project presentations and student led teaching
 - Grades are on projects, learnt concepts, and live reviews between student(s) and teacher
 ```
+### Changing text color
+use "< font color="22de00">This text is green!</font>" 
+you can input color names or hexcodes
+
+
 
 ### j
 
