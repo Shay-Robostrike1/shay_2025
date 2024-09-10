@@ -21,7 +21,6 @@ My hobbies include
 I also have a small railroad historical artifact collection currently consisting of a spike from the SD&AE engine shed. i'm working to get blueprints and plans from old San Diego railroading things.
 
 
-Some of the video games i play
 
 <style>
     /* Style looks pretty compact, trace grid-container and grid-item in the code */
