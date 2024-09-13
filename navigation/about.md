@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### Hi, I'm shay
+### Hi, I'm Shay
 
 I'm a CSSE student in Mr. Mortensen's class. 
 

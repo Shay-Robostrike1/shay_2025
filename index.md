@@ -3,12 +3,14 @@ layout: base
 title: Student Home 
 description: Home Page
 image: /images/mario_animation.png
+menu: nav/index.html
 hide: true
 ---
 
 <!-- Liquid:  statements -->
 
 <!-- Include submenu from _includes to top of pages -->
+{% include nav/index.html %}
 <!--- Concatenation of site URL to frontmatter image  --->
 {% assign sprite_file = site.baseurl | append: page.image %}
 <!--- Has is a list variable containing mario metadata for sprite --->
@@ -222,7 +224,7 @@ this is a heading inside of code scaffolding
 - Focus on tehnical communications through project presentations and student led teaching
 - Grades are on projects, learnt concepts, and live reviews between student(s) and teacher
 ```
-### Changing text <font color="green">color</font> via HTML
+### Changing text <font color="red">color</font> via HTML
 ```html
 use <font color="your_color">This text is colored!</font>
 ```
