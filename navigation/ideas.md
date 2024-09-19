@@ -7,4 +7,7 @@ permalink: /ideas/
 {% include nav/index.html %}
 
 
-idea placeholder 
+### Platformer Ideas
+1. 1988 soviet treasure island style game in which you play as Chad Magistrate of treasure island: Dr. David Livesey
+2. fixed jump physics 
+3. projectile attacks
