@@ -89,3 +89,12 @@ I also have a small railroad historical artifact collection currently consisting
         container.appendChild(gridItem);
     }
 </script>
+
+<script src="https://utteranc.es/client.js"
+        repo="Shay-Robostrike1/shay_2025"
+        issue-term="title"
+        label="blogpost-comment"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
