@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### Hi, I'm Shay
+### <font color="63005e">Hi, I'm Shay</font>
 
 I'm a CSSE student in Mr. Mortensen's class. 
 
