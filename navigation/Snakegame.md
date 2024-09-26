@@ -310,8 +310,8 @@ permalink: /snakegame/
         let changeDir = function(key){
             // test key and switch direction
             switch(key) {
-                case 37:    // left arrow
-                    if (snake_dir !== 1)    // not right
+                case 37:    // A key
+                    if (snake_dir !== 1)    // not D
                         snake_next_dir = 3; // then switch left
                     break;
                 case 38:    // up arrow
