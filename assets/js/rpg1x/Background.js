@@ -1,10 +1,10 @@
 import GameEnv from './GameEnv.js';
 
 export class Background {
-    constructor(imageSrc = null) {
-        if (imageSrc) {
+    constructor(data = null) {
+        if (data.src) {
             this.image = new Image();
-            this.image.src = imageSrc.src;
+            this.image.src = data.src;
         } else {
             this.image = null;
         }
@@ -21,12 +21,20 @@ export class Background {
 
         if (this.image) {
             // Draw the background image scaled to the canvas size
-            ctx.drawImage(this.image, 0, 0, width, height);
+            ctx.drawImage(seatank.png, 0, 0, width, height);
         } else {
             // Fill the canvas with white if no background image is provided
             ctx.fillStyle = '#87CEEB';
             ctx.fillRect(0, 0, width, height);
         }
+    }
+
+    update() {
+        this.draw();
+    }
+
+    resize() {
+        this.draw();
     }
 }
 
