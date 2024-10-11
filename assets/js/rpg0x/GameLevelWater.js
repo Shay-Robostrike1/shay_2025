@@ -3,7 +3,7 @@ import GameEnv from './GameEnv.js';
 import Background from './Background.js';
 import PlayerFish from './PlayerFish.js';
 import PlayerTurtle from './PlayerTurtle.js';
-import NPC from './NPC2.js';
+import NPC from './NPC.js';
 //import Goomba from './EnemyGoomba.js';
 //import Coin from './Coin.js';
 
