@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Student Home 
+title: Coding Journey 
 description: Home Page
 image: /images/mario_animation.png
 menu: nav/index.html
@@ -191,48 +191,45 @@ hide: true
 
 </script>
 
+## Home
 
+### Game Progress
 
+> Shay's coding and game progress Journey
 
-My journey starts here.
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="{{site.baseurl}}/snakegame/" style="text-decoration: none;">
+        <div style="background-color: #00a77c; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Snake Game
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/rpg/" style="text-decoration: none;">
+        <div style="background-color: #00a77c; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            RPG Stable
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/rpg0x/" style="text-decoration: none;">
+        <div style="background-color: #00a77c; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            RPG Beta test
+        </div>
+    </a>
+</div>
 
-### Markdown samples. [markdown cheatsheet](https://www.markdownguide.org/getting-started/)
+<br>
 
->using markdown from index.md we are learning markdown. 
+### College Articulation
 
--this text below is something called markdown
-```markdown
+> Shay's Hacks
 
-this is a heading inside of code scaffolding
-
-## Investing in Your Technical Future
-
-```
-
--this is emphasis 
--sample of bullets
-```markdown
-
-> Explore the Computer Science Pathway at Del Norte High School and invest in your technical skills. All Del Norte CompSci classes are designed to provide a real-world development experience. Class time includes tech talks (lectures), peer collaboration, communication with teachers, critical thinking while coding, and creativity in projects. Grading is focused on time invested, participation with peers, and engagement in learning.
-
-```bullets
-- Introduction to concepts and requirements by the teacher
-- Project-based learning with teacher support, performing Agile/Scrum development
-- Coding, frontend, backend, devops, version control and algorithmic thinking
-- Creativity, research, design, data structures, and utilizing ChatGPT
-- Performing team work, team communication and collaboration, peer reviews/grading
-- Focus on tehnical communications through project presentations and student led teaching
-- Grades are on projects, learnt concepts, and live reviews between student(s) and teacher
-```
-### Changing text <font color="red">color</font> via HTML
-```html
-use <font color="your_color">This text is colored!</font>
-```
-you can input color names or hexcodes
-
-
-
-### j
-
-![j](https://github.com/user-attachments/assets/3e95fd6f-3060-4ae5-957c-328c0d675f2b)
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="{{site.baseurl}}/csse/javascript/fundamentals/variables" style="text-decoration: none;">
+        <div style="background-color: #008a1d; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Variables I/O
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/csse/javascript/fundamentals/data-types/" style="text-decoration: none;">
+        <div style="background-color: #008a1d; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Data Types
+        </div>
+    </a>
+</div>

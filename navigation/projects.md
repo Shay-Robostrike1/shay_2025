@@ -15,4 +15,4 @@ I like making things. What kind of things? depends, I like making all sorts of t
 
 I started by doing research on the best way to make it. I settled on EVA foam ad the material and found some plans online by a guy called Tristan Maker. I printed all the plans on paper and glued them together, and cut them out, then I got the foam and cut the bits out of the foam. The way you form EVA foam is quite interesting. You can heat it up to make it form better, and then while warm you can contact cement bits together to make smoothly curved structures which proved very useful for making armor. 
 
-### Images
+### Image
