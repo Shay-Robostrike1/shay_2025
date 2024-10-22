@@ -231,5 +231,7 @@ hide: true
         <div style="background-color: #008a1d; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Data Types
         </div>
-    </a>
+           <a href="{{site.baseurl}}/csse/javascript/fundamentals/for-loops/" style="text-decoration: none;">
+        <div style="background-color: #008a1d; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Loops and sprites
 </div>
