@@ -231,7 +231,14 @@ hide: true
         <div style="background-color: #008a1d; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Data Types
         </div>
-           <a href="{{site.baseurl}}/csse/javascript/fundamentals/for-loops/" style="text-decoration: none;">
+    </a>
+    <a href="{{site.baseurl}}/csse/javascript/fundamentals/for-loops/" style="text-decoration: none;">
         <div style="background-color: #008a1d; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Loops and sprites
-</div>
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/javascript/2024/09/15/javascript_output_objects_IPYNB_2_.html" style="text-decoration: none;">
+        <div style="background-color: #008a1d; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            javascript output
+        </div>
+    </a>
