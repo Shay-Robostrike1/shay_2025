@@ -233,8 +233,8 @@ hide: true
     </a>
 </div>
 
-<h2 class="placeholder-heading">Night At The Musuem showcase</h2>
-<p class="placeholder-description">This is a Showcase of my project for N@TM.</p>
+<h2 class="placeholder-heading">placeholder heading</h2>
+<p class="placeholder-description">placeholder description.</p>
 
 <style>
     .home-heading {
