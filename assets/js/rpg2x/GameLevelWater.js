@@ -43,9 +43,9 @@ class GameLevelWater {
         SCALE_FACTOR: 16,
         STEP_FACTOR: 400,
         ANIMATION_RATE: 50,
-        pixels: { height: 256, width: 384 },
+        pixels: { height: 140, width: 256 },
         INIT_POSITION: { x: 0, y: height / 2 }, // Fish in the lower half
-        orientation: { rows: 4, columns: 12 },
+        orientation: { rows: 2, columns: 4 },
         down: { row: 1, start: 0, columns: 3 }, // Row 1 for fish (bottom row)
         left: { row: 2, start: 0, columns: 3 },
         right: { row: 3, start: 0, columns: 3 },
