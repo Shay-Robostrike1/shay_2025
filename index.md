@@ -48,19 +48,19 @@ title: Home
 <p class="placeholder-description">Sprint3 homeworks</p>
 
 <div class="button-container">
-    <a href="{{ site.baseurl }}/shay_2025/2024/11/04/classes-hw_IPYNB_2_.html" class="glow-button-darkblue">
+    <a href="{{ site.baseurl }}/2024/11/04/classes-hw_IPYNB_2_.html" class="glow-button-darkblue">
         Classes Homework
         <span class="glow-effect"></span>
     </a>
-    <a href="{{ site.baseurl }}/shay_2025/csse/javascript/fundamentals/data-abstraction-homework" class="glow-button-darkblue">
+    <a href="{{ site.baseurl }}/csse/javascript/fundamentals/data-abstraction-homework" class="glow-button-darkblue">
         Data Abstraction Homework
         <span class="glow-effect"></span>
     </a>
-    <a href="{{ site.baseurl }}/shay_2025/2024/10/28/variables_hw_IPYNB_2_.html" class="glow-button-darkblue">
+    <a href="{{ site.baseurl }}/2024/10/28/variables_hw_IPYNB_2_.html" class="glow-button-darkblue">
         Variables Homework
         <span class="glow-effect"></span>
     </a>
-    <a href="{{ site.baseurl }}/shay_2025/nestedconditionals_hw/" class="glow-button-darkblue">
+    <a href="{{ site.baseurl }}/nestedconditionals_hw/" class="glow-button-darkblue">
         Nested Conditionals Homework
         <span class="glow-effect"></span>
     </a>
