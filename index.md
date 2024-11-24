@@ -43,7 +43,7 @@ title: Home
     </a>
 </div>
 
-<!-- New Homework Section -->
+
 <h2 class="placeholder-heading">Homeworks</h2>
 <p class="placeholder-description">Sprint3 homeworks</p>
 
