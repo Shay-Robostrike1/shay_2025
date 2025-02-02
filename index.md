@@ -19,6 +19,10 @@ title: Home
         RPG Beta test
         <span class="glow-effect"></span>
     </a>
+    <a href="{{ site.baseurl }}/gamify/adventureGame" class="glow-button">
+        Adventure Game
+        <span class="glow-effect"></span>
+    </a>
 </div>
 
 <h2 class="placeholder-heading">College Articulation</h2>
